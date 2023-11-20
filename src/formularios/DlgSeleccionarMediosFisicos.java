@@ -118,6 +118,7 @@ public class DlgSeleccionarMediosFisicos extends javax.swing.JFrame {
         jButton2.setBorderPainted(false);
         jButton2.setContentAreaFilled(false);
         jButton2.setFocusPainted(false);
+        jButton2.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/BTN.CALCULARV.CURSOR.png"))); // NOI18N
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);

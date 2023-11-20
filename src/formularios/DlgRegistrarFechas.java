@@ -146,6 +146,7 @@ public class DlgRegistrarFechas extends javax.swing.JFrame {
         jToggleButton1.setBorderPainted(false);
         jToggleButton1.setContentAreaFilled(false);
         jToggleButton1.setFocusPainted(false);
+        jToggleButton1.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/BTN.CALCULAR.SEMANAS.CURSOR.png"))); // NOI18N
         jToggleButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jToggleButton1ActionPerformed(evt);
